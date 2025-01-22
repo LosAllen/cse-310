@@ -1,0 +1,15 @@
+C:\Users\linco\OneDrive\Desktop\Useful Garbage\cse-310\bin\Debug\net8.0\cse-310.exe
+C:\Users\linco\OneDrive\Desktop\Useful Garbage\cse-310\bin\Debug\net8.0\cse-310.deps.json
+C:\Users\linco\OneDrive\Desktop\Useful Garbage\cse-310\bin\Debug\net8.0\cse-310.runtimeconfig.json
+C:\Users\linco\OneDrive\Desktop\Useful Garbage\cse-310\bin\Debug\net8.0\cse-310.dll
+C:\Users\linco\OneDrive\Desktop\Useful Garbage\cse-310\bin\Debug\net8.0\cse-310.pdb
+C:\Users\linco\OneDrive\Desktop\Useful Garbage\cse-310\obj\Debug\net8.0\cse-310.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linco\OneDrive\Desktop\Useful Garbage\cse-310\obj\Debug\net8.0\cse-310.AssemblyInfoInputs.cache
+C:\Users\linco\OneDrive\Desktop\Useful Garbage\cse-310\obj\Debug\net8.0\cse-310.AssemblyInfo.cs
+C:\Users\linco\OneDrive\Desktop\Useful Garbage\cse-310\obj\Debug\net8.0\cse-310.csproj.CoreCompileInputs.cache
+C:\Users\linco\OneDrive\Desktop\Useful Garbage\cse-310\obj\Debug\net8.0\cse-310.sourcelink.json
+C:\Users\linco\OneDrive\Desktop\Useful Garbage\cse-310\obj\Debug\net8.0\cse-310.dll
+C:\Users\linco\OneDrive\Desktop\Useful Garbage\cse-310\obj\Debug\net8.0\refint\cse-310.dll
+C:\Users\linco\OneDrive\Desktop\Useful Garbage\cse-310\obj\Debug\net8.0\cse-310.pdb
+C:\Users\linco\OneDrive\Desktop\Useful Garbage\cse-310\obj\Debug\net8.0\cse-310.genruntimeconfig.cache
+C:\Users\linco\OneDrive\Desktop\Useful Garbage\cse-310\obj\Debug\net8.0\ref\cse-310.dll
