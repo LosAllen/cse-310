@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\linco\\OneDrive\\Desktop\\Useful Garbage\\cse-310\\cse-310.csproj",
+      "projectUniqueName": "C:\\Users\\linco\\OneDrive\\Desktop\\Useful Garbage\\cse-310\\Expense Tracker\\cse-310.csproj",
       "projectName": "cse-310",
-      "projectPath": "C:\\Users\\linco\\OneDrive\\Desktop\\Useful Garbage\\cse-310\\cse-310.csproj",
+      "projectPath": "C:\\Users\\linco\\OneDrive\\Desktop\\Useful Garbage\\cse-310\\Expense Tracker\\cse-310.csproj",
       "packagesPath": "C:\\Users\\linco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\linco\\OneDrive\\Desktop\\Useful Garbage\\cse-310\\obj\\",
+      "outputPath": "C:\\Users\\linco\\OneDrive\\Desktop\\Useful Garbage\\cse-310\\Expense Tracker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\linco\\AppData\\Roaming\\NuGet\\NuGet.Config"
